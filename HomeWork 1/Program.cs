@@ -58,9 +58,9 @@ namespace HomeWork_1
 
         public static void task_4()
         {
-            byte a = 24;
-            string b = "gdfsgh";
-            int c = 34242424;
+            byte a = 10;
+            string b = "Szkoła Dotneta";
+            double c = 10.5;
             
         }
 
